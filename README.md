@@ -10,12 +10,10 @@ Hi, I'm **Pavankumar Chandankar**, currently pursuing my Master's degree in Mech
 
 - **Larsen and Toubro**  
   Embedded Engineer - Graduate Engineer
-  - Contributed to remote testing of Shinkansen-compatible rail control system firmware (C++/Embedded C) using dSPACE HIL and Vector CANoe, ensuring
-real-time performance and data integrity.
-  - Assisted in automating ADAS testing using python for emergency braking, obstacle detection, and train control automation.
-  - Supported development of test automation frameworks (Jenkins) and generated documentation for firmware performance and safety compliance (LDRA Testbed).
-  - Gained experience in embedded systems testing, test automation, and remote collaboration within a large-scale, safety-critical project (JIRA, Confluence).
-  - Inspected COTS hardware with Eplan P8, ensuring industry compliance and establishing CAN bus communication for a €7 billion rail project.
+  - Collaboration with cross-functional teams in the development and testing of embedded systems to ensure compliance with safety standards, project specifications, and regulatory guidelines within the construction company.
+  - Real-time validation of firmware and CAN-based communication tests for HIL simulations (dSPACE) and analysis of CAN bus traffic (Vector CANoe) to validate the real-time performance and data integrity of the embedded firmware.
+  - Automated test scripting and support for static code analysis with Python test scripts for automated ADAS functional testing, as well as support in creating compliance documentation with static code analysis tools (LDRA testbed) within a CI/CD pipeline.
+  - Support for system optimization by assisting in the development of error handling and fault tolerance mechanisms to ensure reliable operation under resource constraints.
 
 - **Tata Hitachi**  
   Process Engineer - Intern  
